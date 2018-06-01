@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">믿거나 말거나 심리테스트</string>
+    <string name="test_start">동물 심리테스트 시작</string>
+    <string name="result">심리결과</string>
+    <string name="state">심리상태</string>
+    <string name="img_description">동물사진</string>
+    <string name="question">
+        당신은 멀리 떨어진 마을에 동물을 데려다 달라는 부탁을 받았습니다. 그렇게 사자, 말, 양, 원숭이, 소를 데리고 가는 도중 사막을 만났습니다. 며칠에 걸쳐 사막을 지나던 중 너무 지쳐 동물 한마리를 버리려 합니다. 어떤 동물을 버리시겠습니까?
+    </string>
+</resources>
