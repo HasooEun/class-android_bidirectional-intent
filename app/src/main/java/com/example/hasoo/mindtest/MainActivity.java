@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
 
             String comment = "\n당신이 선택한 동물은 살아가면서 힘든 일이 닥쳤을 때, 가장 먼저 버리게 되는 것을 의미한다고 합니다.\n\n" + "당신이 마지막까지 포기하지 않고 싶은 것은 무엇인가요?";
 
-           ImageView imageView = (ImageView) findViewById(R.id.imageView);
+            ImageView imageView = (ImageView) findViewById(R.id.imageView);
             imageView.setImageResource(imgs[data.getIntExtra("AnimalType", 0)]);
 
             TextView textView = (TextView) findViewById(R.id.textView2);
